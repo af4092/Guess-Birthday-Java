@@ -7,3 +7,8 @@ Guess-Birthday java program, that prompts the user to answer random question wit
 
 ![image](https://user-images.githubusercontent.com/24220136/224931659-19ac342d-7ef5-41ee-adec-13a9f0717220.png)
 
+UI elements were added and jar file was built
+
+![image](https://user-images.githubusercontent.com/24220136/230571387-5737279c-7261-41d8-a926-85ecab546915.png)
+
+
